@@ -61,7 +61,7 @@
    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-square&logo=cloudflare&logoColor=white"/>
  </div>
  
-<br>
+<!-- <br>
 
 ## :pushpin: 원하는, 만들고 싶은 조직상
 
@@ -79,7 +79,7 @@
 3. 업무 내용을 문서화하여 언제 어떤 작업을 하였는지 기록하며
 4. 정해진 목표를 위해 열심히 노력하고
 5. 개인 성장을 위해 스스로도 돌아보며 잘못된 것을 수정 
-
+ -->
 
 <!-- 
 
