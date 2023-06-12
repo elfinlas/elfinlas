@@ -98,9 +98,6 @@
 
 <!-- 
 
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=200&section=header&text=MHLab-nl-Web%20Developer&fontSize=40&fontAlign=92&fontAlign=84)
 
 <img src="https://img.shields.io/badge/Tech_Blog-ddd-007396?style=for-the-square&logo=Java&logoColor=white">
