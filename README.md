@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&theme=tokyonight&height=40&section=header&text=MHLab%20|%20기록을%20좋아하는%20개발자&fontSize=30&fontAlign=22)
 
 [![Blog badge](https://img.shields.io/badge/Dev_Blog-blueviolet?style=flat&logo=github&logoColor=white)](https://elfinlas.github.io/)
-[![Blog badge](https://img.shields.io/badge/elfinlas@gmail.com-informational?style=flat&logo=gmail&logoColor=white)](https://elfinlas.github.io/)
+[![Blog badge](https://img.shields.io/badge/elfinlas@gmail.com-informational?style=flat&logo=gmail&logoColor=white)](mailto:elfinlas@gmail.com)
 
 ---
 
