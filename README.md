@@ -42,6 +42,8 @@
  <div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-square&logo=spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-square&logo=springboot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-square&logo=redis&logoColor=white"/>
  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-square&logo=thymeleaf&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-square&logo=bootstrap&logoColor=white"/> 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-square&logo=jquery&logoColor=white"/> 
