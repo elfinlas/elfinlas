@@ -58,6 +58,8 @@
  <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-square&logo=tailwindcss&logoColor=white"/>
+   
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-square&logo=flutter&logoColor=white"/>
  </div>
  
 <div>
